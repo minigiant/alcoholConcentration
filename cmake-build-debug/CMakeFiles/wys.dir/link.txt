@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/wys.dir/main.cpp.o  -o wys.exe -Wl,--out-implib,libwys.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
